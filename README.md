@@ -11,3 +11,5 @@ Monogame, which you can download from
 
 Upon building the application the game should run, as the assets used
 are also contained in this GitHub repository.
+
+![Asteroids screenshot](./screenshot.png)
