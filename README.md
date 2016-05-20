@@ -13,3 +13,11 @@ Upon building the application the game should run, as the assets used
 are also contained in this GitHub repository.
 
 ![Asteroids screenshot](./screenshot.png)
+
+## How to Play
+
+Use W, A, and D to control the ship. W will propel the ship forward, A
+and D will rotate it left and right respectively.
+
+Press Space to fire the ship's missiles. Missiles will recharge after
+hitting an asteroid or after reaching the end of the screen.
