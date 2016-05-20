@@ -2,7 +2,9 @@
 
 Asteroids implemented with Monogame and C#.
 
-## Getting Started
+![Asteroids screenshot](./screenshot.png)
+
+## Building the Game
 
 Playing this implementation of Asteroids will require you to build a
 working copy. The only dependency required for this application is
@@ -11,8 +13,6 @@ Monogame, which you can download from
 
 Upon building the application the game should run, as the assets used
 are also contained in this GitHub repository.
-
-![Asteroids screenshot](./screenshot.png)
 
 ## How to Play
 
